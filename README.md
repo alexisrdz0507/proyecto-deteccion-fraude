@@ -9,12 +9,10 @@ Desarrollar un MVP que identifique y bloquee votos sospechosos en tiempo real.
 Autor
 Alexis Rodriguez Chavarria
 
-Inicio: [Fecha de hoy]
+Inicio: 17/02/2026
 
 Stack propuesto
-- Backend: Python + Flask
-- Base de datos: SQLite
-- Frontend: HTML + JavaScript
+
 
 Datos a generar
 - Registro de votos (timestamp, IP, candidato)
